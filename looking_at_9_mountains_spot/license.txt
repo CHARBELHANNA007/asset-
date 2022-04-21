@@ -1,0 +1,11 @@
+Model Information:
+* title:	Looking at 9 mountains spot
+* source:	https://sketchfab.com/3d-models/looking-at-9-mountains-spot-f6c3ae1c13454db1b71c1b2fbbb42c4e
+* author:	ddachkinov (https://sketchfab.com/ddachkinov)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Looking at 9 mountains spot" (https://sketchfab.com/3d-models/looking-at-9-mountains-spot-f6c3ae1c13454db1b71c1b2fbbb42c4e) by ddachkinov (https://sketchfab.com/ddachkinov) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
